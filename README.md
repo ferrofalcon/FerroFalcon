@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [Expense Tracker App](https://github.com/FerroFalcon/MERN-Expensor-App)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Nest.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FerroFalcon](https://github.com/FerroFalcon)
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **jdghungharwal04@gmail.com**
+- 📫 How to reach me **ferroforwork@gmail.com**
 
-- 📄 Know about my experiences [jaideep](jaideep)
+- 📄 Know about my experiences [jaideep](jaideep) <!-- Portfolio website link here -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
